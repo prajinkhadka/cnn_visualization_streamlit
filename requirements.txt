@@ -1,2 +1,7 @@
-streamlit==0.73.1
-torch
+streamlit==0.67.1
+torch==1.7.0
+matplotlib==3.3.3
+seaborn==0.11.1
+opencv-python==4.4.0.46
+torchvision==0.8.1
+Pillow==6.2.1
