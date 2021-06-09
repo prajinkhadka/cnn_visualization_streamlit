@@ -11,7 +11,7 @@ For now, these are following methods
 
 With these you can visualize which parts of the image ws responsible to preciting the class label.
 
-link - https://lnkd.in/gMPNdS9
+link - http://52.230.87.133:8501/
 
 
 PS - Right now, I have deployed in a small instance so site may be little slow ( will try to scale up later )
